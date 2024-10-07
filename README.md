@@ -20,11 +20,7 @@ This service is designed to convert TEXT to PICTURE in .PNG format.
 * On the website, users can also change the background of the future image, as well as modify the font, text size, and text spacing on the picture.
 * Users have the opportunity to create their own templates, which can be used consistently without the need to enter the same values (width, height, color, text, background) each time.
 <p align="center">
-<img src="https://github.com/OlenaSonhrova/image/blob/main/TextToImageConverter.jpg?raw=true" width="930" title="PUMBOnline">
-
-<p align="center">
 <img src="https://github.com/OlenaSonhrova/image/blob/main/TextToImageConverter2.jpg?raw=true">
-
 </p>
 
 # ZNO Test
