@@ -1,5 +1,13 @@
 <a href="https://github.com/OlenaSonhrova/image/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%9E%D0%BB%D0%B5%D0%BD%D0%B0%20%D0%94%D0%B5%D0%BE%D0%B1%D0%B0.png?raw=true" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:esongrovaa@gmail.com"><img src="https://img.shields.io/badge/Email-Olena-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/olena-sonhrova-05a8832a0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Olena%20Sonhrova-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
+# DeadRussCounter - React App
+
+This app provides up-to-date information about Russian military losses during the Russo-Ukrainian war. Users can view the total number of enemy personnel killed as well as destroyed military equipment, including tanks, armored vehicles, artillery, and other types of weaponry.
+
+<p align="center">
+<img src="https://github.com/OlenaSonhrova/image/blob/main/DeadRussCounteGif.gif?raw=true" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<img src="https://github.com/OlenaSonhrova/image/blob/main/DeadRussCounter1.jpg?raw=true" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/DeadRussCounter2.jpg?raw=true" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/DeadRussCounter3.jpg?raw=true" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<img src="https://github.com/OlenaSonhrova/image/blob/main/DeadRussCounter4.jpg?raw=true" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+
+
 
 
 # [Text To Image Converter](https://olenasonhrova.github.io/TextToImageConverter/) 
