@@ -2,6 +2,9 @@
 
 # DeadRussCounter - React App
 
+<p align="left"> <a href="https://github.com/OlenaSonhrova/react_first.git"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+
 This app provides up-to-date information about Russian military losses during the Russo-Ukrainian war. Users can view the total number of enemy personnel killed as well as destroyed military equipment, including tanks, armored vehicles, artillery, and other types of weaponry.
 
 <p align="center">
