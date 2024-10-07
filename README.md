@@ -22,6 +22,9 @@ This service is designed to convert TEXT to PICTURE in .PNG format.
 <p align="center">
 <img src="https://github.com/OlenaSonhrova/image/blob/main/TextToImageConverter.jpg?raw=true" width="930" title="PUMBOnline">
 
+<p align="center">
+<img src="https://github.com/OlenaSonhrova/image/blob/main/TextToImageConverter2.jpg?raw=true">
+
 </p>
 
 # ZNO Test
