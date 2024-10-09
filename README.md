@@ -32,7 +32,8 @@ This service is designed to convert TEXT to PICTURE in .PNG format.
 
 
 # [Growfy](https://olenasonhrova.github.io/Growfy/) 
-# My Web Development Project
+<p align="left"> <a href="https://github.com/OlenaSonhrova/Growfy.git"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
 This project is a website created to demonstrate my skills in web development using HTML5, CSS3, and JavaScript. The site aims to showcase my ability to create responsive and interactive web pages, providing a platform where visitors can explore various features and design elements that reflect my capabilities as a developer.
 <p align="center">
 <img src="https://github.com/OlenaSonhrova/image/blob/main/Growfy1.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/Growfy2.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/Growfy3.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
@@ -40,7 +41,8 @@ This project is a website created to demonstrate my skills in web development us
 
 
 # [APJ Furniture](https://olenasonhrova.github.io/FurnitureWebsite/) 
-# My Web Development Project
+<p align="left"> <a href="https://github.com/OlenaSonhrova/FurnitureWebsite.git"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
 This project is a website created to demonstrate my skills in web development using HTML5, CSS3, and JavaScript. The site aims to showcase my ability to create responsive and interactive web pages, providing a platform where visitors can explore various features and design elements that reflect my capabilities as a developer.
 <p align="center">
 <img src="https://github.com/OlenaSonhrova/image/blob/main/APJFurniture1.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/APJFurniture2.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/APJFurniture3.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/APJFurniture4.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,7 +50,8 @@ This project is a website created to demonstrate my skills in web development us
 
 
 # [EcoCabines](https://olenasonhrova.github.io/EcoCabins/) 
-# My Web Development Project
+<p align="left"> <a href="https://github.com/OlenaSonhrova/EcoCabins.git"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
 This project is a website created to demonstrate my skills in web development using HTML5, CSS3, and JavaScript. The site aims to showcase my ability to create responsive and interactive web pages, providing a platform where visitors can explore various features and design elements that reflect my capabilities as a developer.
 <p align="center">
 <img src="https://github.com/OlenaSonhrova/image/blob/main/EcoCabins1.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/EcoCabins2.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/EcoCabins3.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -56,7 +59,8 @@ This project is a website created to demonstrate my skills in web development us
 
 
 # [FarmVest](https://olenasonhrova.github.io/FarmVest/) 
-# My Web Development Project
+<p align="left"> <a href="https://github.com/OlenaSonhrova/FarmVest.git"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
 This project is a website created to demonstrate my skills in web development using HTML5, CSS3, and JavaScript. The site aims to showcase my ability to create responsive and interactive web pages, providing a platform where visitors can explore various features and design elements that reflect my capabilities as a developer.
 <p align="center">
 <img src="https://github.com/OlenaSonhrova/image/blob/main/FarmVest1.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/FarmVest2.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/FarmVest3.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -64,7 +68,8 @@ This project is a website created to demonstrate my skills in web development us
 
 
 # [Coffee](https://olenasonhrova.github.io/Coffee/) 
-# My Web Development Project
+<p align="left"> <a href="https://github.com/OlenaSonhrova/Coffee.git"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
 This project is a website created to demonstrate my skills in web development using HTML5, CSS3, and JavaScript. The site aims to showcase my ability to create responsive and interactive web pages, providing a platform where visitors can explore various features and design elements that reflect my capabilities as a developer.
 <p align="center">
 <img src="https://github.com/OlenaSonhrova/image/blob/main/BeanScene1.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/BeanScene2.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/BeanScene3.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/BeanScene4.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/BeanScene5.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/BeanScene6.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
