@@ -3,7 +3,6 @@
 
 # Games Hub
 <p align="left"> <a href="https://github.com/OlenaSonhrova/GamesHub.git"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
-</p>
 <p align="left"> <a href="https://apps.apple.com/ua/app/пумб-online/id1373626840" download><img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" width="150" ></a>
 </p>
 "Games Hub" is an app where users can find games to organize leisure activities for children, teenagers, young adults, and adults. Users can either use existing games or create and add their own. The app works in both online and offline modes, but not all features are available in offline mode.
