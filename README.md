@@ -30,6 +30,12 @@ This service is designed to convert TEXT to PICTURE in .PNG format.
 <img src="https://github.com/OlenaSonhrova/image/blob/main/TextToImageConverter2.jpg?raw=true">
 </p>
 
+# [The Good Samaritan Mission](https://thegoodsamaritanmission.com/)
+This website was created for a volunteer organization dedicated to helping the people of Ukraine. It was developed on the WordPress platform using various plugins to ensure maximum functionality and convenience. In particular, the Elementor page builder was used, allowing for the easy and quick creation of modern and responsive pages.
+<p align="center">
+<img src="https://github.com/OlenaSonhrova/image/blob/main/samar1.png?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/samar3.png?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/samar2.png?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/samar4.png?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 
 # [Growfy](https://olenasonhrova.github.io/Growfy/) 
 <p align="left"> <a href="https://github.com/OlenaSonhrova/Growfy.git"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
